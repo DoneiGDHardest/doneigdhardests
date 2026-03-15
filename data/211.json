@@ -1,0 +1,18 @@
+{
+    "id": 63514295,
+    "name": "2 1 1",
+    "author": "SrGuillester",
+    "creators": ["SrGuillester"],
+    "verifier": "SrGuillester",
+    "verification": "https://www.youtube.com/watch?v=TFiqui-2IsM",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=TFiqui-2IsM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
