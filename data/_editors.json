@@ -10,12 +10,12 @@
         "link": "https://www.youtube.com/@Svennxh"
     },
     {
-        "role": "mod",
+        "role": "helper",
         "name": "Buscando... ",
         "link": "https://www.youtube.com/"
     },
     {
-        "role": "helper",
+        "role": "trial",
         "name": "Buscando...",
         "link": "https://www.youtube.com/"
     }
