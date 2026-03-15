@@ -1,0 +1,18 @@
+{
+    "id": 60603962,
+    "name": "Low Death",
+    "author": "KrmaL",
+    "creators": ["KrmaL and Migueword"],
+    "verifier": "KrmaL",
+    "verification": "https://www.youtube.com/watch?v=DUCbQkRe4Tg",
+    "percentToQualify": 56,
+    "password": "002015",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=DUCbQkRe4Tg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
