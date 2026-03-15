@@ -1,0 +1,18 @@
+{
+    "id": 51791710,
+    "name": "Auditory Breaker",
+    "author": "LazerBlitz",
+    "creators": ["Manix648 and more"],
+    "verifier": "Gabs",
+    "verification": "https://www.youtube.com/watch?v=D_vjZw93CBs",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=D_vjZw93CBs",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
