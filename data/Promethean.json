@@ -1,0 +1,18 @@
+{
+    "id": 69333212,
+    "name": "Promethean",
+    "author": "EndLevel",
+    "creators": ["EndLevel and more"],
+    "verifier": "RicoLP",
+    "verification": "https://www.youtube.com/watch?v=19kE_Yo8puE",
+    "percentToQualify": 56,
+    "password": "789123",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=8mhs_79kcjk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
