@@ -1,0 +1,18 @@
+{
+    "id": 34489220,
+    "name": "Step To Hell",
+    "author": "LaZye",
+    "creators": ["Bloodshot and more"],
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=n8YEt7kovm0",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=n8YEt7kovm0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
