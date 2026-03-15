@@ -1,0 +1,18 @@
+{
+    "id": 28220417,
+    "name": "Yatagarasu",
+    "author": "TrusTa",
+    "creators": ["Aeidux and more"],
+    "verifier": "TrusTa",
+    "verification": "https://www.youtube.com/watch?v=PvdPuB4-H3c",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=PvdPuB4-H3c",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
