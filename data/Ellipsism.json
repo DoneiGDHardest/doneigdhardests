@@ -1,0 +1,18 @@
+{
+    "id": 83914474,
+    "name": "ELLIPSISM",
+    "author": "Swib",
+    "creators": ["Swib and Bibu"],
+    "verifier": "Bibu",
+    "verification": "https://www.youtube.com/watch?v=23FD6EjTsAU",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=23FD6EjTsAU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
