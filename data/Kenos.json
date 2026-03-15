@@ -1,0 +1,18 @@
+{
+    "id": 58673581,
+    "name": "Kenos",
+    "author": "npesta",
+    "creators": ["ChiefFlurry and more"],
+    "verifier": "npesta",
+    "verification": "https://www.youtube.com/watch?v=Bs1kVySdUtI",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=FIpmLN0yR3E",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
