@@ -1,0 +1,18 @@
+{
+    "id": 60020026,
+    "name": "Aesthetic",
+    "author": "SyQuaL",
+    "creators": ["SyQuaL"],
+    "verifier": "Rainstorm",
+    "verification": "https://www.youtube.com/watch?v=X4ZI9H2sfio",
+    "percentToQualify": 56,
+    "password": "200305",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=X4ZI9H2sfio",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
