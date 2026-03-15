@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Wasureta",
+    "author": "HelpegasuS",
+    "creators": ["crazen and more"],
+    "verifier": "VaporWubz",
+    "verification": "https://www.youtube.com/watch?v=RXbXYxxiD4I",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=RXbXYxxiD4I",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
