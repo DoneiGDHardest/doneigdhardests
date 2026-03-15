@@ -1,0 +1,18 @@
+{
+    "id": 60740290,
+    "name": "Aquatic Auroras",
+    "author": "EndLevel",
+    "creators": ["LimeTime313 and more"],
+    "verifier": "kyoto",
+    "verification": "https://www.youtube.com/watch?v=Hr_4dPUoIBU",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=Hr_4dPUoIBU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
