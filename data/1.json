@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 89187968,
+    "name": "Edge of Destiny",
+    "author": "CDMusic",
+    "creators": ["CDMusic and more"],
+    "verifier": "Polterghast",
+    "verification": "https://www.youtube.com/watch?v=rUphe3H59yU",
+    "percentToQualify": 75,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=7dYOgJlDCP4",
             "percent": 100,
             "hz": 360
         }
