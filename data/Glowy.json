@@ -1,0 +1,18 @@
+{
+    "id": 37361518,
+    "name": "Glowy",
+    "author": "Rob Buck",
+    "creators": ["Rob Buck and Sunnett"],
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=8RrxULYf_iU",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=8RrxULYf_iU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
