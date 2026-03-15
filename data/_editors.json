@@ -6,12 +6,7 @@
     },
     {
         "role": "owner",
-        "name": "[Owner] mattscomet",
-        "link": "https://www.youtube.com/@mattscomet"
-    },
-    {
-        "role": "dev",
-        "name": "[Dev] mattscomet",
+        "name": "[Owner & Dev] mattscomet",
         "link": "https://www.youtube.com/@mattscomet"
     },
     {
@@ -21,7 +16,12 @@
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com"
+        "name": "[Helper] Dust 💜 ",
+        "link": "https://www.youtube.com/@MeDicenDust"
+    },
+    {
+        "role": "helper",
+        "name": "[Helper] ElPapuTilin",
+        "link": "https://www.youtube.com/@ELPAPUTILINGD"
     }
 ]
