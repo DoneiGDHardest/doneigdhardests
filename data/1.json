@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 52374843,
+    "name": "Zodiac",
+    "author": "BIANOX",
+    "creators": ["Enlex and more"],
+    "verifier": "Technical",
+    "verification": "https://www.youtube.com/watch?v=HCQK_y8JutU",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "005875",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=3IwHg1J7FLE",
             "percent": 100,
             "hz": 360
         }
