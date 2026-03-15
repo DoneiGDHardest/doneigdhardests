@@ -1,0 +1,18 @@
+{
+    "id": 33498127,
+    "name": "SARY NEVER CLEAR",
+    "author": "KugeLBlitz",
+    "creators": ["Cypher and more"],
+    "verifier": "Spamdrew128",
+    "verification": "https://www.youtube.com/watch?v=mvkYaGjNgAg",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=mvkYaGjNgAg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
