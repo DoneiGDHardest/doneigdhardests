@@ -1,0 +1,18 @@
+{
+    "id": 50333567,
+    "name": "Catalyze",
+    "author": "ZephiroX",
+    "creators": ["ZephiroX"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://www.youtube.com/watch?v=F1E0RYA1rkU",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=F1E0RYA1rkU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
