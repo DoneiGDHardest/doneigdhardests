@@ -1,0 +1,18 @@
+{
+    "id": 37398911,
+    "name": "Stalemate Redux",
+    "author": "GdTheTactiq",
+    "creators": ["GdTheTactiq, Nox and TheFrozenTide"],
+    "verifier": "Zephal",
+    "verification": "https://www.youtube.com/watch?v=AHwzKTAckIo",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=AHwzKTAckIo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
