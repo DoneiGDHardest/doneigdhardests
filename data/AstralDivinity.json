@@ -1,0 +1,18 @@
+{
+    "id": 58811846,
+    "name": "Astral Divinity",
+    "author": "knobbelboy",
+    "creators": ["knobbelboy"],
+    "verifier": "knobbelboy",
+    "verification": "https://www.youtube.com/watch?v=sxBaIrKV6oE",
+    "percentToQualify": 56,
+    "password": "001517",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=sxBaIrKV6oE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
