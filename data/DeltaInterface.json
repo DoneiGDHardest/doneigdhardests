@@ -1,0 +1,18 @@
+{
+    "id": 45094581,
+    "name": "Delta Interface",
+    "author": "Platnuu",
+    "creators": ["Platnuu"],
+    "verifier": "skzyl",
+    "verification": "https://www.youtube.com/watch?v=kRuyBsqRXEU",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=kRuyBsqRXEU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
