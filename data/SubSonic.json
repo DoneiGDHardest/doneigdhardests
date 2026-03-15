@@ -1,0 +1,18 @@
+{
+    "id": 33387622,
+    "name": "SubSonic",
+    "author": "ViPRiN",
+    "creators": ["Rustam and more"],
+    "verifier": "combi",
+    "verification": "https://www.youtube.com/watch?v=SBhyKbMd3Rk",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=SBhyKbMd3Rk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
