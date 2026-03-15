@@ -1,22 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "[Owner & Dev] mattscomet",
+        "name": "mattscomet",
         "link": "https://www.youtube.com/@mattscomet"
     },
     {
         "role": "admin",
-        "name": "[Admin] Svench",
+        "name": "Svench",
         "link": "https://www.youtube.com/@Svennxh"
     },
     {
-        "role": "helper",
-        "name": "[Helper] Dust 💜 ",
-        "link": "https://www.youtube.com/@MeDicenDust"
+        "role": "mod",
+        "name": "Buscando... ",
+        "link": "https://www.youtube.com/"
     },
     {
         "role": "helper",
-        "name": "[Helper] ElPapuTilin",
-        "link": "https://www.youtube.com/@ELPAPUTILINGD"
+        "name": "Buscando...",
+        "link": "https://www.youtube.com/"
     }
 ]
