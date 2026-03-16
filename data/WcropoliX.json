@@ -1,0 +1,18 @@
+{
+    "id": 22183448,
+    "name": "WcropoliX",
+    "author": "BlassCFB",
+    "creators": ["BlassCFB and more"],
+    "verifier": "BlassCFB",
+    "verification": "https://www.youtube.com/watch?v=v4ewnhUcyA8",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=v4ewnhUcyA8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
