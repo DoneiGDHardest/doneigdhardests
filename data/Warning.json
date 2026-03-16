@@ -1,0 +1,18 @@
+{
+    "id": 72414148,
+    "name": "Warning",
+    "author": "TwisterDude161",
+    "creators": ["TwisterDude161"],
+    "verifier": "TwisterDude161",
+    "verification": "https://www.youtube.com/watch?v=eEc5VvoTIZc",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=eEc5VvoTIZc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
