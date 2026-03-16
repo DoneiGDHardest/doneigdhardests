@@ -1,0 +1,18 @@
+{
+    "id": 78374157,
+    "name": "1330X",
+    "author": "ewop",
+    "creators": ["AVRG and more"],
+    "verifier": "knoeppel",
+    "verification": "https://www.youtube.com/watch?v=pAMn7U9JfKg",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=pAMn7U9JfKg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
