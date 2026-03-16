@@ -1,0 +1,18 @@
+{
+    "id": 79146983,
+    "name": "EKO",
+    "author": "PureDinoMight",
+    "creators": ["Kaz Va", "PuroDinoMight", "Gyrodog"],
+    "verifier": "Victurkey",
+    "verification": "https://www.youtube.com/watch?v=MvF7dFgbTUo",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=MvF7dFgbTUo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
