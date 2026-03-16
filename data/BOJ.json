@@ -1,0 +1,18 @@
+{
+    "id": 35448603,
+    "name": "Blade of Justice",
+    "author": "Manix648",
+    "creators": ["Manix648 and more"],
+    "verifier": "RicoLP",
+    "verification": "https://www.youtube.com/watch?v=3ul3swZ9QUY",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=3ul3swZ9QUY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
