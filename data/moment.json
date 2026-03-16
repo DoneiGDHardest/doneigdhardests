@@ -1,0 +1,18 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "lexycat",
+    "creators": ["lexycat and IceDCave OG"],
+    "verifier": "Johnfree",
+    "verification": "https://www.youtube.com/watch?v=xtxKiD1ryhk",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=xtxKiD1ryhk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
