@@ -1,0 +1,18 @@
+{
+    "id": 17711004,
+    "name": "Conical Depression",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verifier": "KrmaL",
+    "verification": "https://www.youtube.com/watch?v=7FyY8ltWUzw",
+    "percentToQualify": 56,
+    "password": "000000",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=7FyY8ltWUzw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
