@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "A Bizarre Phantasm",
+    "author": "TeamN2",
+    "creators": ["Aeidux and more"],
+    "verifier": "GoodSmile",
+    "verification": "https://www.youtube.com/watch?v=tW4wbETJxAM",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=tW4wbETJxAM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
