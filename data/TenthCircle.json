@@ -1,0 +1,18 @@
+{
+    "id": 62592746,
+    "name": "Tenth Circle",
+    "author": "DeniPol",
+    "creators": ["NormDanchik and DeniPol"],
+    "verifier": "Dorami",
+    "verification": "https://www.youtube.com/watch?v=XyAcfWYaBX4",
+    "percentToQualify": 56,
+    "password": "060720",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=XyAcfWYaBX4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
