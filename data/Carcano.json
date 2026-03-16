@@ -1,0 +1,18 @@
+{
+    "id": 64148732,
+    "name": "Carcano",
+    "author": "Asuith",
+    "creators": ["Asuith and TomsoN"],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=tcv9B53QCTo",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=tcv9B53QCTo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
