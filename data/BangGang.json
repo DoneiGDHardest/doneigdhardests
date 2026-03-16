@@ -1,0 +1,25 @@
+{
+    "id": 56916170,
+    "name": "Bang Gang",
+    "author": "DanZmeN",
+    "creators": ["DanZmeN"],
+    "verifier": "npesta & Technical",
+    "verification": "https://www.youtube.com/watch?v=QxCFWcSb_ck",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=QxCFWcSb_ck",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Asquel",
+            "link": "https://www.youtube.com/watch?v=QxCFWcSb_ck",
+            "percent": 100,
+            "hz": 360
+        }
+
+    ]
+}
