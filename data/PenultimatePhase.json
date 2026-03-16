@@ -1,0 +1,18 @@
+{
+    "id": 44186049,
+    "name": "Penultimate Phase",
+    "author": "nwolc",
+    "creators": ["nwolc"],
+    "verifier": "nwolc",
+    "verification": "https://www.youtube.com/watch?v=oDn-FU03Pgk",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=oDn-FU03Pgk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
