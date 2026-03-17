@@ -1,0 +1,18 @@
+{
+    "id": 38403655,
+    "name": "Death Corridor Z",
+    "author": "Sunix",
+    "creators": ["Sunix and Blaireswip"],
+    "verifier": "Sunix",
+    "verification": "https://www.youtube.com/watch?v=mrkBrf-J9kU",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=mrkBrf-J9kU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
