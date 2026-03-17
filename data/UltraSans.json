@@ -1,0 +1,18 @@
+{
+    "id": 50008168,
+    "name": "UltraSans",
+    "author": "PlebKingdom",
+    "creators": ["Zerex and more"],
+    "verifier": "KrmaL",
+    "verification": "https://www.youtube.com/watch?v=CZonq7dO8Hg",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=CZonq7dO8Hg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
