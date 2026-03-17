@@ -1,0 +1,24 @@
+{
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "zDeadlox",
+    "creators": ["zDeadlox and more"],
+    "verifier": "xander",
+    "verification": "https://www.youtube.com/watch?v=VofMIwDVZWY",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=VofMIwDVZWY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "[SEX69] Matthew Raynor",
+            "link": "https://www.youtube.com/watch?v=iik25wqIuFo",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
