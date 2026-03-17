@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 19300593,
+    "name": "AcropoliX",
+    "author": "SoulsTRK",
+    "creators": ["SoulsTRK and Zobros"],
+    "verifier": "SoulsTRK",
+    "verification": "https://www.youtube.com/watch?v=8URkksaPPxo",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "270416",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=8URkksaPPxo",
             "percent": 100,
             "hz": 360
         }
