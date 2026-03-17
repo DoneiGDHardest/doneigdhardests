@@ -1,0 +1,18 @@
+{
+    "id": 81726232,
+    "name": "Uplink",
+    "author": "Skylarky",
+    "creators": ["Skylarky"],
+    "verifier": "Skylarky",
+    "verification": "https://www.youtube.com/watch?v=22xTxNddQAg",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=22xTxNddQAg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
