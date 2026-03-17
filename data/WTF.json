@@ -1,0 +1,18 @@
+{
+    "id": 93570042,
+    "name": "wtf",
+    "author": "madamEllyza",
+    "creators": ["madamEllyza and more"],
+    "verifier": "madamEllyza",
+    "verification": "https://www.youtube.com/watch?v=zQVv0ovR9AM",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=zQVv0ovR9AM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
