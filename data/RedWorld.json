@@ -1,0 +1,18 @@
+{
+    "id": 2374518,
+    "name": "Red World",
+    "author": "saRy",
+    "creators": ["saRy and Neptune"],
+    "verifier": "SrGuillester",
+    "verification": "https://www.youtube.com/watch?v=5wjk_VaAtD0",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=5wjk_VaAtD0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
