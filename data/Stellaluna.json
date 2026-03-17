@@ -1,0 +1,18 @@
+{
+    "id": 77312559,
+    "name": "Stellaluna",
+    "author": "SamMaxx",
+    "creators": ["SamMaxx"],
+    "verifier": "DreamTide",
+    "verification": "https://www.youtube.com/watch?v=zhdRIOTt63c",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=zhdRIOTt63c",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
