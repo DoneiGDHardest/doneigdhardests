@@ -1,0 +1,18 @@
+{
+    "id": 89190831,
+    "name": "Heart Attack",
+    "author": "Derpskull",
+    "creators": ["Derpskull and more"],
+    "verifier": "LordVadercraft",
+    "verification": "https://www.youtube.com/watch?v=EGKNmmfvf6Y",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=EGKNmmfvf6Y",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
