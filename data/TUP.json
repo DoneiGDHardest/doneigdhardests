@@ -1,0 +1,18 @@
+{
+    "id": 7174110,
+    "name": "The Ultimate Phase",
+    "author": "Andromeda",
+    "creators": ["Andromeda and more"],
+    "verifier": "Andromeda",
+    "verification": "https://www.youtube.com/watch?v=72xYgyIUN7o",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=72xYgyIUN7o",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
