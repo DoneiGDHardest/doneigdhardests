@@ -1,0 +1,18 @@
+{
+    "id": 25449475,
+    "name": "Fexty",
+    "author": "SkyJax",
+    "creators": ["Ozpectro"],
+    "verifier": "SkyJax",
+    "verification": "https://www.youtube.com/watch?v=-yQNIpwO1_4",
+    "percentToQualify": 56,
+    "password": "012396",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=-yQNIpwO1_4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
