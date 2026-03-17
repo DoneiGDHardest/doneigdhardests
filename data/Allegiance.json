@@ -1,0 +1,18 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "EndLevel",
+    "verification": "https://www.youtube.com/watch?v=5qMcbH_e_Wc",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=5qMcbH_e_Wc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
