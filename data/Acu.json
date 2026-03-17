@@ -1,0 +1,18 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": ["neigefeu and more"],
+    "verifier": "neigefeu",
+    "verification": "https://www.youtube.com/watch?v=jsIniDqP3GE",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=jsIniDqP3GE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
