@@ -1,0 +1,18 @@
+{
+    "id": 50672705,
+    "name": "Empanadas Fugaces",
+    "author": "Looou",
+    "creators": ["Looou and more"],
+    "verifier": "Dorami",
+    "verification": "https://www.youtube.com/watch?v=Rh3UHxqxX3I",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=Rh3UHxqxX3I",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
