@@ -1,0 +1,18 @@
+{
+    "id": 58385535,
+    "name": "Corrosion",
+    "author": "Killa",
+    "creators": ["Killa and more"],
+    "verifier": "Killa",
+    "verification": "https://www.youtube.com/watch?v=invW5kj5KIA",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DoneiGD",
+            "link": "https://www.youtube.com/watch?v=invW5kj5KIA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
